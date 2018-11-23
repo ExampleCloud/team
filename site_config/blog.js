@@ -19,9 +19,16 @@ export default {
             {
                 title: '回复 1024 送 4000G 架构师视频',
                 author: '搜云库技术团队',
-                dateStr: '2018-11-21',
+                dateStr: '2018-11-23',
                 desc: '全网最全的架构师视频',
                 link: '/zh-cn/blog/02video.html',
+            },
+            {
+                title: '2018最新 大数据之共享单车实战视频课程',
+                author: '搜云库技术团队',
+                dateStr: '2018-11-23',
+                desc: '全网最全的架构师视频',
+                link: '/zh-cn/blog/2018/05.html',
             },
             {
                 title: '2018最新 71讲大型互联架构师视频',

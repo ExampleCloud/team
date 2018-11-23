@@ -16,6 +16,9 @@ description: 回复 1024 送 4000G 架构师视频
 
 [1]: https://team.souyunku.com/img/souyunku.png
 
+### <span style="color: #FF0000;">2018最新 大数据之共享单车实战视频课程</span>
+### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/05.html)
+
 ### <span style="color: #FF0000;">2018最新 71讲大型互联架构师视频</span>
 
 ### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/01.html)
