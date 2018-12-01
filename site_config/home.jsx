@@ -7,13 +7,13 @@ export default {
       briefIntroduction: '本站内容仅供观摩学习交流之用，将不对任何资源负法律责任',
       buttons: [
         {
-          text: '立即开始',
-          link: '/zh-cn/docs/demo1.html',
+          text: '领取资料',
+          link: '/zh-cn/blog/02video.html',
           type: 'primary',
         },
         {
-          text: '查看Github',
-          link: '',
+          text: '加群讨论',
+          link: 'https://mp.weixin.qq.com/s/ETuhSgkZD-nZNi0f-Vy03Q',
           type: 'normal',
         },
       ],
