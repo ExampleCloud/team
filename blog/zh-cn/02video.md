@@ -16,25 +16,23 @@ description: 回复 1024 送 4000G 架构师视频
 
 [1]: https://team.souyunku.com/img/souyunku.png
 
-### <span style="color: #FF0000;">2018最新 大数据之共享单车实战视频课程</span>
-### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/05.html)
-
-### <span style="color: #FF0000;">2018最新 71讲大型互联架构师视频</span>
-
-### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/01.html)
-
-### <span style="color: #FF0000;">2018最新 前端40套学习视频，图书，等资源</span>
-
-### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/02.html)
-
-### <span style="color: #FF0000;">2018最新 百度、腾讯、阿里、谷歌 面试题视频讲解</span>
-
-### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/03.html)
+### <span style="color: #FF0000;">2018最新 100G 14套数据结构与算法实战视频</span>
+### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/06.html)
 
 ### <span style="color: #FF0000;">2018最新 学习30个阶段成为互联网架构师视频</span>
-
 ### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/04.html)
 
+### <span style="color: #FF0000;">2018最新 71讲大型互联架构师视频</span>
+### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/01.html)
+
+### <span style="color: #FF0000;">2018最新 百度、腾讯、阿里、谷歌 面试题视频讲解</span>
+### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/03.html)
+
+### <span style="color: #FF0000;">2018最新 前端40套学习视频，图书，等资源</span>
+### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/02.html)
+
+### <span style="color: #FF0000;">2018最新 大数据之共享单车实战视频课程</span>
+### [☞☞点击此处获取☜☜](https://team.souyunku.com/zh-cn/blog/2018/05.html)
 
 ## <span style="color: #FF0000;">以下是 2000G 互联网架构师视频</span>
 
